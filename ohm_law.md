@@ -1,0 +1,1 @@
+Ohm's Law states that the current through a conductor between two points is directly proportional to the voltage across the two points. V=IR. This section covers basic definitions and examples.
