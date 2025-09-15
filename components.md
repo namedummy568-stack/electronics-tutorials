@@ -2,7 +2,7 @@
 
 ## Resistors
 
-### Resistor Color Code Table
+### Resistor Color Code Table (Updated)
 
 | Band Color | Value | Multiplier | Tolerance |
 |---|---|---|---|
@@ -18,3 +18,4 @@
 | White | 9 | 1,000,000,000 | |
 | Gold | | 0.1 | ±5% |
 | Silver | | 0.01 | ±10% |
+| None | | | ±20% |
